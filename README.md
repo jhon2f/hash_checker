@@ -1,2 +1,2 @@
-# hash_checker
-Hash Checker is a C# .NET app that checks if your files' hashes are on a blacklist. It helps you identify files that may be harmful or compromised. You need to update the blacklist manually.
+# Overview
+Hash Checker is a simple C# .NET Framework application designed to verify if the hash of input files matches any entries in a blacklisted database. This can be useful for anti-virus or file integrity purposes.
